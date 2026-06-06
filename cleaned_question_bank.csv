@@ -1,0 +1,848 @@
+question_id,subject,grade,competency,difficulty,question_type,marks,question_text,created_by,last_used_date
+3,Mathematics,7.0,Algebra,hard,MCQ,2.0,Sample question text 3,Teacher B,2025-02-14
+5,Science,5.0,Fractions,medium,Word Problem,2.0,Sample question text 5,Unknown,
+6,Mathematics,7.0,Algebra,medium,MCQ,2.0,Sample question text 6,Teacher B,2025-01-10
+8,Mathematics,7.0,Fractions,easy,Short Answer,2.0,Sample question text 8,Unknown,2025-03-14
+9,Mathematics,7.0,Measurement,hard,MCQ,5.0,Sample question text 9,Unknown,
+10,Mathematics,6.0,Geometry,medium,Short Answer,5.0,Sample question text 10,Teacher A,
+11,English,5.0,Algebra,easy,True/False,1.0,Sample question text 11,Teacher B,
+13,Mathematics,7.0,Fractions,unknown,True/False,5.0,Sample question text 13,Admin,2025-02-14
+17,English,6.0,Geometry,unknown,MCQ,2.0,Sample question text 17,Teacher A,2025-01-10
+18,English,7.0,Measurement,easy,MCQ,1.0,Sample question text 18,Unknown,2025-02-14
+20,Mathematics,5.0,Fractions,medium,MCQ,3.0,Sample question text 20,Admin,
+26,Mathematics,5.0,Geometry,hard,Unknown,2.0,Sample question text 26,Admin,2025-01-10
+29,Mathematics,6.0,Data Interpretation,unknown,MCQ,2.0,Sample question text 29,Admin,2025-02-14
+30,Science,7.0,Geometry,hard,Short Answer,2.0,Sample question text 30,Admin,2025-03-14
+31,Mathematics,5.0,Measurement,hard,True/False,5.0,Sample question text 31,Teacher A,
+33,Science,7.0,Algebra,unknown,MCQ,3.0,Sample question text 33,Teacher A,2025-03-14
+34,Science,7.0,Algebra,unknown,Unknown,2.0,Sample question text 34,Teacher A,2025-02-14
+35,Mathematics,7.0,Data Interpretation,easy,MCQ,2.0,Sample question text 35,Unknown,2025-01-10
+37,Mathematics,7.0,Geometry,easy,Word Problem,2.0,Sample question text 37,Teacher B,2025-01-10
+42,Science,7.0,Measurement,easy,MCQ,2.0,Sample question text 42,Teacher A,2025-02-14
+43,Mathematics,7.0,Algebra,medium,True/False,1.0,Sample question text 43,Unknown,
+45,Science,6.0,Fractions,easy,Word Problem,2.0,Sample question text 45,Unknown,
+47,Science,7.0,Data Interpretation,unknown,MCQ,2.0,Sample question text 47,Unknown,2025-01-10
+48,Mathematics,7.0,Algebra,easy,Unknown,2.0,Sample question text 48,Teacher B,
+53,Science,6.0,Data Interpretation,unknown,MCQ,2.0,Sample question text 53,Admin,
+57,Mathematics,7.0,Geometry,easy,MCQ,2.0,Sample question text 57,Teacher A,2025-02-14
+58,Mathematics,5.0,Algebra,easy,MCQ,2.0,Sample question text 58,Unknown,
+67,Mathematics,6.0,Measurement,medium,Word Problem,5.0,Sample question text 67,Unknown,2025-01-10
+69,Mathematics,6.0,Fractions,medium,MCQ,2.0,Sample question text 69,Teacher A,2025-03-14
+72,English,5.0,Fractions,easy,Word Problem,2.0,Sample question text 72,Unknown,2025-03-14
+74,Science,7.0,Fractions,hard,True/False,2.0,Sample question text 74,Unknown,2025-03-14
+77,English,7.0,Data Interpretation,hard,Word Problem,3.0,Sample question text 77,Teacher B,
+80,Mathematics,7.0,Measurement,easy,Unknown,2.0,Sample question text 80,Admin,
+81,Mathematics,6.0,Data Interpretation,easy,MCQ,5.0,Sample question text 81,Unknown,
+84,Mathematics,5.0,Data Interpretation,unknown,MCQ,3.0,Sample question text 84,Unknown,
+87,Mathematics,6.0,Fractions,easy,MCQ,2.0,Sample question text 87,Teacher A,
+95,English,7.0,Geometry,easy,MCQ,2.0,Sample question text 95,Unknown,2025-02-14
+96,Mathematics,5.0,Data Interpretation,easy,Unknown,1.0,Sample question text 96,Admin,
+97,Science,7.0,Algebra,easy,MCQ,2.0,Sample question text 97,Teacher B,2025-02-14
+100,Mathematics,6.0,Measurement,easy,MCQ,2.0,Sample question text 100,Admin,2025-02-14
+103,Mathematics,6.0,Fractions,unknown,True/False,2.0,Sample question text 103,Unknown,2025-02-14
+105,Science,5.0,Algebra,hard,Short Answer,3.0,Sample question text 105,Teacher B,2025-02-14
+107,Science,6.0,Data Interpretation,easy,MCQ,2.0,Sample question text 107,Admin,2025-02-14
+108,Mathematics,7.0,Measurement,unknown,Word Problem,2.0,Sample question text 108,Unknown,
+111,Mathematics,6.0,Fractions,hard,Unknown,3.0,Sample question text 111,Unknown,2025-02-14
+112,Mathematics,5.0,Algebra,medium,Word Problem,1.0,Sample question text 112,Unknown,
+113,Science,6.0,Fractions,medium,True/False,2.0,Sample question text 113,Teacher A,
+118,English,6.0,Algebra,hard,Short Answer,1.0,Sample question text 118,Unknown,2025-02-14
+120,Mathematics,6.0,Geometry,medium,Unknown,5.0,Sample question text 120,Teacher A,
+126,Science,5.0,Measurement,unknown,Unknown,2.0,Sample question text 126,Teacher A,2025-01-10
+128,Science,5.0,Algebra,medium,True/False,2.0,Sample question text 128,Admin,2025-02-14
+133,Mathematics,6.0,Fractions,hard,Word Problem,2.0,Sample question text 133,Teacher B,2025-01-10
+136,Mathematics,7.0,Algebra,hard,Unknown,5.0,Sample question text 136,Unknown,2025-03-14
+139,Mathematics,5.0,Fractions,unknown,MCQ,2.0,Sample question text 139,Unknown,
+141,English,6.0,Geometry,unknown,MCQ,1.0,Sample question text 141,Unknown,2025-02-14
+146,Mathematics,6.0,Geometry,easy,Word Problem,2.0,Sample question text 146,Unknown,
+147,Mathematics,6.0,Data Interpretation,easy,Short Answer,3.0,Sample question text 147,Teacher A,
+148,Mathematics,5.0,Data Interpretation,easy,Short Answer,1.0,Sample question text 148,Teacher A,
+149,Mathematics,7.0,Measurement,unknown,Short Answer,1.0,Sample question text 149,Teacher A,
+155,Science,6.0,Algebra,medium,MCQ,5.0,Sample question text 155,Unknown,
+157,Mathematics,5.0,Fractions,easy,Unknown,2.0,Sample question text 157,Admin,2025-02-14
+158,English,5.0,Algebra,easy,MCQ,1.0,Sample question text 158,Teacher A,2025-02-14
+160,Mathematics,5.0,Fractions,hard,True/False,2.0,Sample question text 160,Admin,2025-02-14
+161,Mathematics,6.0,Fractions,hard,MCQ,2.0,Sample question text 161,Unknown,2025-02-14
+165,Mathematics,6.0,Algebra,unknown,Unknown,2.0,Sample question text 165,Unknown,2025-03-14
+169,Mathematics,7.0,Geometry,easy,MCQ,5.0,Sample question text 169,Unknown,
+172,Mathematics,7.0,Data Interpretation,easy,Unknown,3.0,Sample question text 172,Unknown,
+177,Mathematics,6.0,Algebra,medium,Short Answer,2.0,Sample question text 177,Unknown,2025-02-14
+178,Mathematics,5.0,Data Interpretation,easy,Word Problem,5.0,Sample question text 178,Teacher B,
+179,Mathematics,7.0,Algebra,unknown,MCQ,2.0,Sample question text 179,Teacher A,
+181,Science,6.0,Measurement,medium,MCQ,5.0,Sample question text 181,Unknown,2025-01-10
+184,Mathematics,6.0,Algebra,medium,MCQ,1.0,Sample question text 184,Admin,2025-02-14
+186,Mathematics,6.0,Algebra,medium,MCQ,1.0,Sample question text 186,Unknown,
+192,English,6.0,Geometry,unknown,Unknown,2.0,Sample question text 192,Unknown,2025-02-14
+196,Science,6.0,Algebra,easy,Unknown,1.0,Sample question text 196,Teacher A,2025-02-14
+197,Science,7.0,Algebra,medium,Short Answer,2.0,Sample question text 197,Admin,
+202,Science,5.0,Geometry,easy,Short Answer,5.0,Sample question text 202,Teacher A,2025-02-14
+207,Mathematics,6.0,Fractions,hard,True/False,1.0,Sample question text 207,Unknown,
+213,Science,6.0,Algebra,hard,Unknown,5.0,Sample question text 213,Teacher A,
+216,English,7.0,Algebra,easy,Unknown,2.0,Sample question text 216,Unknown,2025-01-10
+217,Science,7.0,Measurement,easy,Word Problem,2.0,Sample question text 217,Teacher B,2025-02-14
+218,English,6.0,Algebra,unknown,Short Answer,3.0,Sample question text 218,Teacher B,2025-01-10
+221,Mathematics,6.0,Algebra,hard,Short Answer,3.0,Sample question text 221,Admin,2025-03-14
+222,Mathematics,5.0,Algebra,medium,MCQ,5.0,Sample question text 222,Unknown,
+224,Mathematics,5.0,Algebra,easy,MCQ,3.0,Sample question text 224,Admin,2025-03-14
+226,Mathematics,7.0,Algebra,hard,True/False,2.0,Sample question text 226,Admin,2025-02-14
+228,Science,7.0,Fractions,easy,Unknown,2.0,Sample question text 228,Admin,
+231,Mathematics,5.0,Fractions,medium,Short Answer,3.0,Sample question text 231,Unknown,
+237,Mathematics,7.0,Geometry,medium,Short Answer,1.0,Sample question text 237,Admin,2025-03-14
+243,Mathematics,7.0,Fractions,unknown,Unknown,2.0,Sample question text 243,Admin,
+246,Science,7.0,Data Interpretation,hard,Word Problem,2.0,Sample question text 246,Unknown,
+247,Mathematics,7.0,Algebra,easy,MCQ,3.0,Sample question text 247,Unknown,2025-02-14
+248,Science,6.0,Fractions,hard,Unknown,1.0,Sample question text 248,Admin,2025-02-14
+249,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 249,Teacher A,2025-01-10
+253,Mathematics,6.0,Data Interpretation,easy,Word Problem,2.0,Sample question text 253,Teacher B,2025-02-14
+256,English,7.0,Geometry,hard,Short Answer,2.0,Sample question text 256,Unknown,
+257,Mathematics,6.0,Geometry,medium,Unknown,3.0,Sample question text 257,Unknown,2025-03-14
+258,English,7.0,Fractions,medium,MCQ,2.0,Sample question text 258,Unknown,
+260,Science,7.0,Geometry,unknown,MCQ,1.0,Sample question text 260,Admin,2025-02-14
+261,Science,5.0,Data Interpretation,hard,Unknown,2.0,Sample question text 261,Unknown,2025-01-10
+264,Mathematics,6.0,Fractions,medium,MCQ,2.0,Sample question text 264,Teacher B,2025-01-10
+266,Science,6.0,Fractions,hard,Short Answer,2.0,Sample question text 266,Unknown,2025-03-14
+267,Mathematics,5.0,Geometry,unknown,MCQ,2.0,Sample question text 267,Unknown,2025-03-14
+268,Mathematics,6.0,Fractions,hard,True/False,1.0,Sample question text 268,Teacher B,
+269,Mathematics,7.0,Geometry,easy,Unknown,2.0,Sample question text 269,Unknown,2025-01-10
+270,Science,6.0,Geometry,hard,Word Problem,2.0,Sample question text 270,Unknown,2025-01-10
+271,Mathematics,7.0,Algebra,medium,Short Answer,2.0,Sample question text 271,Unknown,
+272,Science,5.0,Fractions,easy,Word Problem,5.0,Sample question text 272,Unknown,
+273,Science,7.0,Fractions,unknown,Unknown,5.0,Sample question text 273,Unknown,2025-02-14
+275,Mathematics,6.0,Data Interpretation,hard,True/False,2.0,Sample question text 275,Teacher B,2025-03-14
+276,Mathematics,5.0,Geometry,easy,Short Answer,2.0,Sample question text 276,Unknown,2025-03-14
+277,Mathematics,6.0,Geometry,hard,Short Answer,5.0,Sample question text 277,Admin,2025-01-10
+278,Mathematics,6.0,Fractions,unknown,MCQ,5.0,Sample question text 278,Teacher B,2025-03-14
+280,Science,7.0,Algebra,hard,Short Answer,5.0,Sample question text 280,Unknown,2025-02-14
+281,Science,6.0,Fractions,hard,True/False,2.0,Sample question text 281,Teacher A,2025-02-14
+286,Mathematics,7.0,Fractions,hard,Short Answer,2.0,Sample question text 286,Teacher A,2025-03-14
+289,Mathematics,7.0,Geometry,unknown,Unknown,3.0,Sample question text 289,Teacher A,
+294,Science,5.0,Algebra,unknown,True/False,2.0,Sample question text 294,Unknown,2025-03-14
+296,English,5.0,Fractions,easy,MCQ,2.0,Sample question text 296,Unknown,
+299,Science,7.0,Measurement,easy,MCQ,3.0,Sample question text 299,Admin,2025-02-14
+302,Mathematics,7.0,Algebra,easy,Unknown,2.0,Sample question text 302,Teacher B,2025-03-14
+304,English,5.0,Measurement,medium,Short Answer,3.0,Sample question text 304,Unknown,2025-01-10
+305,Science,6.0,Fractions,hard,MCQ,3.0,Sample question text 305,Admin,2025-03-14
+306,Mathematics,7.0,Geometry,medium,Short Answer,2.0,Sample question text 306,Teacher B,
+311,Science,7.0,Algebra,unknown,Word Problem,3.0,Sample question text 311,Unknown,2025-03-14
+313,Mathematics,7.0,Geometry,hard,True/False,1.0,Sample question text 313,Unknown,2025-02-14
+314,Mathematics,7.0,Fractions,hard,True/False,2.0,Sample question text 314,Unknown,
+318,Science,5.0,Fractions,easy,MCQ,5.0,Sample question text 318,Teacher A,
+320,Mathematics,5.0,Geometry,unknown,Word Problem,2.0,Sample question text 320,Unknown,
+325,Mathematics,7.0,Fractions,easy,MCQ,1.0,Sample question text 325,Unknown,
+326,Mathematics,7.0,Fractions,hard,True/False,1.0,Sample question text 326,Teacher A,2025-02-14
+327,Science,6.0,Measurement,unknown,MCQ,3.0,Sample question text 327,Admin,2025-02-14
+329,Science,6.0,Fractions,easy,True/False,2.0,Sample question text 329,Admin,2025-02-14
+331,Mathematics,7.0,Fractions,unknown,MCQ,5.0,Sample question text 331,Unknown,2025-02-14
+333,Mathematics,7.0,Geometry,unknown,MCQ,2.0,Sample question text 333,Unknown,2025-01-10
+334,Mathematics,5.0,Algebra,unknown,Unknown,2.0,Sample question text 334,Teacher B,
+335,Mathematics,7.0,Geometry,medium,Unknown,5.0,Sample question text 335,Teacher A,2025-03-14
+339,Mathematics,6.0,Measurement,unknown,MCQ,5.0,Sample question text 339,Teacher B,
+344,Mathematics,7.0,Fractions,hard,Word Problem,2.0,Sample question text 344,Unknown,
+349,Mathematics,6.0,Algebra,hard,Short Answer,2.0,Sample question text 349,Admin,
+352,Mathematics,6.0,Geometry,hard,Word Problem,2.0,Sample question text 352,Unknown,2025-03-14
+354,English,6.0,Measurement,medium,MCQ,2.0,Sample question text 354,Unknown,2025-02-14
+356,Science,6.0,Data Interpretation,hard,Short Answer,2.0,Sample question text 356,Teacher A,
+364,Science,6.0,Geometry,hard,Short Answer,2.0,Sample question text 364,Unknown,2025-01-10
+366,Science,5.0,Fractions,easy,True/False,2.0,Sample question text 366,Teacher B,
+371,Mathematics,5.0,Algebra,unknown,Unknown,1.0,Sample question text 371,Unknown,2025-01-10
+375,Mathematics,7.0,Geometry,unknown,MCQ,2.0,Sample question text 375,Unknown,2025-01-10
+379,Mathematics,7.0,Fractions,easy,Unknown,5.0,Sample question text 379,Admin,2025-03-14
+380,Mathematics,5.0,Geometry,easy,MCQ,5.0,Sample question text 380,Admin,2025-02-14
+386,Mathematics,7.0,Data Interpretation,unknown,True/False,2.0,Sample question text 386,Unknown,
+388,Mathematics,7.0,Fractions,medium,Short Answer,5.0,Sample question text 388,Unknown,
+389,Mathematics,7.0,Algebra,easy,Unknown,2.0,Sample question text 389,Teacher B,
+390,Mathematics,5.0,Algebra,medium,Word Problem,2.0,Sample question text 390,Unknown,2025-02-14
+392,English,6.0,Algebra,unknown,MCQ,2.0,Sample question text 392,Admin,
+393,Mathematics,6.0,Algebra,hard,True/False,2.0,Sample question text 393,Teacher A,
+394,Mathematics,6.0,Data Interpretation,medium,Word Problem,2.0,Sample question text 394,Teacher A,2025-03-14
+396,Mathematics,5.0,Geometry,medium,MCQ,2.0,Sample question text 396,Unknown,2025-03-14
+398,Mathematics,5.0,Fractions,unknown,MCQ,2.0,Sample question text 398,Teacher A,2025-03-14
+399,Mathematics,6.0,Fractions,hard,True/False,1.0,Sample question text 399,Unknown,2025-02-14
+400,Science,7.0,Measurement,medium,Short Answer,3.0,Sample question text 400,Teacher A,2025-02-14
+403,Mathematics,7.0,Geometry,unknown,True/False,1.0,Sample question text 403,Teacher B,2025-03-14
+406,English,6.0,Fractions,medium,MCQ,1.0,Sample question text 406,Teacher A,2025-02-14
+412,Science,6.0,Data Interpretation,medium,Short Answer,1.0,Sample question text 412,Admin,2025-01-10
+413,Mathematics,5.0,Measurement,unknown,MCQ,2.0,Sample question text 413,Admin,2025-03-14
+414,Mathematics,7.0,Algebra,hard,MCQ,1.0,Sample question text 414,Teacher A,
+415,English,5.0,Geometry,hard,True/False,2.0,Sample question text 415,Unknown,2025-02-14
+417,Mathematics,7.0,Data Interpretation,medium,Unknown,2.0,Sample question text 417,Admin,2025-03-14
+419,English,5.0,Data Interpretation,unknown,Short Answer,1.0,Sample question text 419,Teacher A,
+422,Mathematics,7.0,Geometry,easy,True/False,1.0,Sample question text 422,Unknown,2025-03-14
+423,Science,6.0,Measurement,unknown,Word Problem,3.0,Sample question text 423,Unknown,2025-03-14
+424,Mathematics,6.0,Fractions,unknown,Word Problem,2.0,Sample question text 424,Admin,
+429,Mathematics,7.0,Algebra,medium,Short Answer,2.0,Sample question text 429,Unknown,2025-03-14
+436,Mathematics,7.0,Geometry,easy,True/False,2.0,Sample question text 436,Admin,2025-01-10
+438,Mathematics,6.0,Fractions,unknown,Word Problem,1.0,Sample question text 438,Teacher B,
+439,Mathematics,6.0,Algebra,easy,True/False,5.0,Sample question text 439,Admin,
+440,English,7.0,Geometry,unknown,Short Answer,5.0,Sample question text 440,Teacher B,2025-02-14
+443,Mathematics,7.0,Geometry,hard,Word Problem,2.0,Sample question text 443,Unknown,
+446,Mathematics,6.0,Geometry,unknown,True/False,1.0,Sample question text 446,Teacher B,2025-02-14
+448,Mathematics,7.0,Fractions,unknown,MCQ,3.0,Sample question text 448,Unknown,
+455,Mathematics,5.0,Algebra,easy,Word Problem,5.0,Sample question text 455,Teacher A,
+464,Science,6.0,Geometry,easy,True/False,2.0,Sample question text 464,Admin,
+467,Mathematics,7.0,Algebra,hard,MCQ,2.0,Sample question text 467,Teacher A,
+470,Mathematics,7.0,Algebra,easy,Short Answer,1.0,Sample question text 470,Unknown,
+473,English,7.0,Geometry,hard,Unknown,2.0,Sample question text 473,Teacher A,
+475,Mathematics,7.0,Algebra,unknown,MCQ,2.0,Sample question text 475,Unknown,
+476,Mathematics,7.0,Geometry,medium,Word Problem,2.0,Sample question text 476,Teacher B,2025-02-14
+477,Mathematics,6.0,Geometry,medium,MCQ,2.0,Sample question text 477,Unknown,2025-01-10
+479,Mathematics,7.0,Geometry,hard,True/False,1.0,Sample question text 479,Admin,2025-02-14
+480,English,5.0,Geometry,medium,MCQ,2.0,Sample question text 480,Teacher B,2025-02-14
+481,Mathematics,5.0,Algebra,medium,MCQ,5.0,Sample question text 481,Teacher A,2025-01-10
+484,Mathematics,6.0,Algebra,unknown,Short Answer,2.0,Sample question text 484,Unknown,2025-01-10
+485,Mathematics,7.0,Algebra,hard,Short Answer,2.0,Sample question text 485,Teacher B,2025-03-14
+486,English,6.0,Algebra,hard,MCQ,2.0,Sample question text 486,Unknown,
+488,Mathematics,6.0,Measurement,unknown,Word Problem,3.0,Sample question text 488,Admin,2025-02-14
+492,Mathematics,7.0,Measurement,easy,Word Problem,1.0,Sample question text 492,Teacher A,2025-01-10
+494,Mathematics,7.0,Algebra,easy,Short Answer,3.0,Sample question text 494,Teacher B,
+495,English,6.0,Algebra,medium,Unknown,1.0,Sample question text 495,Teacher A,2025-02-14
+497,English,7.0,Measurement,medium,Unknown,3.0,Sample question text 497,Teacher A,2025-03-14
+499,Mathematics,6.0,Measurement,unknown,Short Answer,2.0,Sample question text 499,Teacher A,
+500,Mathematics,6.0,Algebra,hard,Short Answer,2.0,Sample question text 500,Unknown,
+501,Mathematics,6.0,Algebra,medium,Unknown,2.0,Sample question text 501,Teacher A,2025-01-10
+502,Mathematics,7.0,Geometry,easy,Unknown,2.0,Sample question text 502,Admin,
+503,Science,5.0,Fractions,easy,Short Answer,2.0,Sample question text 503,Teacher B,
+504,Science,7.0,Data Interpretation,medium,True/False,3.0,Sample question text 504,Unknown,2025-01-10
+507,Science,7.0,Fractions,hard,Unknown,2.0,Sample question text 507,Teacher B,
+514,Mathematics,7.0,Measurement,easy,True/False,2.0,Sample question text 514,Unknown,2025-03-14
+516,Mathematics,5.0,Algebra,easy,MCQ,2.0,Sample question text 516,Admin,2025-03-14
+518,Mathematics,7.0,Data Interpretation,medium,MCQ,2.0,Sample question text 518,Unknown,2025-03-14
+521,Mathematics,5.0,Geometry,hard,True/False,2.0,Sample question text 521,Unknown,2025-02-14
+524,Mathematics,6.0,Data Interpretation,medium,MCQ,2.0,Sample question text 524,Teacher A,2025-02-14
+525,English,6.0,Data Interpretation,easy,MCQ,2.0,Sample question text 525,Unknown,
+528,Mathematics,5.0,Fractions,hard,Word Problem,5.0,Sample question text 528,Admin,2025-01-10
+530,Mathematics,6.0,Data Interpretation,unknown,Short Answer,2.0,Sample question text 530,Teacher A,2025-01-10
+531,Science,7.0,Fractions,unknown,Unknown,2.0,Sample question text 531,Teacher A,
+533,Science,7.0,Algebra,unknown,Short Answer,3.0,Sample question text 533,Unknown,2025-02-14
+535,Mathematics,6.0,Algebra,hard,True/False,2.0,Sample question text 535,Unknown,2025-02-14
+537,Mathematics,7.0,Algebra,easy,Unknown,5.0,Sample question text 537,Teacher B,2025-03-14
+538,Mathematics,6.0,Algebra,unknown,True/False,2.0,Sample question text 538,Admin,
+541,Mathematics,7.0,Algebra,easy,Word Problem,2.0,Sample question text 541,Unknown,2025-01-10
+544,Science,7.0,Fractions,hard,True/False,2.0,Sample question text 544,Teacher B,
+549,Mathematics,5.0,Algebra,easy,Word Problem,2.0,Sample question text 549,Unknown,
+554,Mathematics,5.0,Data Interpretation,medium,True/False,5.0,Sample question text 554,Unknown,
+555,Mathematics,7.0,Algebra,medium,MCQ,3.0,Sample question text 555,Admin,
+556,Science,6.0,Algebra,unknown,True/False,2.0,Sample question text 556,Admin,
+557,Science,5.0,Algebra,medium,MCQ,1.0,Sample question text 557,Unknown,
+558,Mathematics,6.0,Geometry,easy,Short Answer,5.0,Sample question text 558,Unknown,2025-01-10
+559,Mathematics,6.0,Fractions,easy,MCQ,2.0,Sample question text 559,Teacher B,2025-03-14
+560,Science,7.0,Fractions,unknown,MCQ,5.0,Sample question text 560,Unknown,
+563,English,7.0,Measurement,hard,Short Answer,1.0,Sample question text 563,Admin,
+568,Mathematics,7.0,Fractions,medium,Short Answer,2.0,Sample question text 568,Admin,2025-03-14
+570,Mathematics,6.0,Fractions,unknown,MCQ,1.0,Sample question text 570,Teacher B,
+572,Mathematics,6.0,Fractions,hard,MCQ,2.0,Sample question text 572,Admin,2025-03-14
+580,Mathematics,7.0,Geometry,hard,Word Problem,2.0,Sample question text 580,Admin,
+581,Mathematics,6.0,Measurement,easy,MCQ,2.0,Sample question text 581,Unknown,2025-01-10
+583,Science,6.0,Geometry,hard,Unknown,2.0,Sample question text 583,Unknown,2025-03-14
+588,Mathematics,7.0,Algebra,easy,MCQ,2.0,Sample question text 588,Admin,
+592,Mathematics,6.0,Geometry,medium,MCQ,5.0,Sample question text 592,Teacher B,
+595,Science,6.0,Measurement,easy,Unknown,2.0,Sample question text 595,Teacher A,2025-02-14
+598,Mathematics,6.0,Algebra,unknown,Word Problem,2.0,Sample question text 598,Admin,2025-02-14
+600,Mathematics,7.0,Algebra,hard,MCQ,1.0,Sample question text 600,Unknown,2025-01-10
+603,English,7.0,Fractions,hard,True/False,2.0,Sample question text 603,Teacher B,2025-02-14
+605,English,6.0,Algebra,unknown,True/False,2.0,Sample question text 605,Teacher B,2025-02-14
+609,English,5.0,Algebra,unknown,MCQ,2.0,Sample question text 609,Teacher B,
+610,Mathematics,7.0,Algebra,unknown,Word Problem,2.0,Sample question text 610,Teacher A,
+612,Mathematics,6.0,Measurement,hard,Word Problem,2.0,Sample question text 612,Unknown,
+613,Mathematics,7.0,Measurement,medium,MCQ,2.0,Sample question text 613,Unknown,2025-03-14
+615,English,6.0,Geometry,easy,Short Answer,2.0,Sample question text 615,Teacher B,2025-02-14
+616,Mathematics,7.0,Algebra,unknown,MCQ,5.0,Sample question text 616,Teacher B,2025-01-10
+617,Mathematics,6.0,Measurement,hard,MCQ,3.0,Sample question text 617,Teacher A,
+622,Science,6.0,Fractions,easy,Short Answer,2.0,Sample question text 622,Unknown,2025-03-14
+627,Mathematics,6.0,Data Interpretation,medium,Word Problem,5.0,Sample question text 627,Unknown,2025-02-14
+629,Mathematics,6.0,Geometry,easy,MCQ,5.0,Sample question text 629,Admin,2025-01-10
+630,Science,6.0,Fractions,hard,Word Problem,5.0,Sample question text 630,Teacher A,2025-03-14
+631,Mathematics,7.0,Algebra,easy,Word Problem,2.0,Sample question text 631,Unknown,
+639,Science,5.0,Geometry,unknown,True/False,5.0,Sample question text 639,Teacher B,
+640,Mathematics,7.0,Fractions,medium,MCQ,1.0,Sample question text 640,Teacher A,2025-03-14
+641,Science,6.0,Measurement,unknown,MCQ,5.0,Sample question text 641,Unknown,2025-03-14
+642,English,6.0,Fractions,medium,True/False,2.0,Sample question text 642,Unknown,2025-03-14
+646,English,6.0,Measurement,easy,MCQ,2.0,Sample question text 646,Teacher B,2025-02-14
+647,Science,7.0,Geometry,easy,MCQ,2.0,Sample question text 647,Unknown,
+648,Mathematics,6.0,Geometry,easy,Unknown,1.0,Sample question text 648,Admin,2025-01-10
+654,Science,6.0,Measurement,medium,Word Problem,2.0,Sample question text 654,Teacher A,2025-01-10
+655,English,5.0,Algebra,easy,MCQ,1.0,Sample question text 655,Teacher B,
+656,Science,6.0,Geometry,unknown,Unknown,3.0,Sample question text 656,Unknown,2025-03-14
+657,Mathematics,7.0,Fractions,medium,Short Answer,2.0,Sample question text 657,Teacher B,
+659,Mathematics,6.0,Data Interpretation,unknown,True/False,2.0,Sample question text 659,Admin,2025-03-14
+661,Mathematics,6.0,Fractions,medium,Unknown,1.0,Sample question text 661,Unknown,
+663,Mathematics,6.0,Data Interpretation,medium,MCQ,2.0,Sample question text 663,Unknown,2025-03-14
+665,Mathematics,6.0,Algebra,unknown,Unknown,2.0,Sample question text 665,Teacher B,
+667,Science,5.0,Geometry,medium,MCQ,3.0,Sample question text 667,Admin,2025-03-14
+668,English,6.0,Fractions,unknown,MCQ,5.0,Sample question text 668,Teacher A,2025-03-14
+669,Mathematics,6.0,Geometry,easy,MCQ,3.0,Sample question text 669,Unknown,2025-02-14
+671,Mathematics,5.0,Geometry,hard,MCQ,3.0,Sample question text 671,Admin,2025-02-14
+676,Science,7.0,Fractions,easy,True/False,1.0,Sample question text 676,Admin,2025-01-10
+677,English,5.0,Geometry,unknown,Short Answer,5.0,Sample question text 677,Teacher B,
+683,Mathematics,7.0,Algebra,easy,MCQ,1.0,Sample question text 683,Unknown,2025-03-14
+684,Mathematics,6.0,Geometry,hard,MCQ,2.0,Sample question text 684,Teacher B,
+687,Mathematics,7.0,Data Interpretation,hard,Unknown,2.0,Sample question text 687,Teacher B,
+689,Mathematics,7.0,Measurement,easy,Short Answer,2.0,Sample question text 689,Teacher B,
+696,Mathematics,5.0,Geometry,unknown,Unknown,2.0,Sample question text 696,Unknown,
+697,English,7.0,Measurement,hard,Word Problem,3.0,Sample question text 697,Teacher B,2025-03-14
+698,Mathematics,7.0,Algebra,unknown,Word Problem,5.0,Sample question text 698,Admin,
+703,English,6.0,Algebra,hard,MCQ,1.0,Sample question text 703,Teacher A,2025-03-14
+706,Mathematics,7.0,Measurement,unknown,MCQ,2.0,Sample question text 706,Unknown,2025-02-14
+707,Mathematics,7.0,Algebra,hard,Short Answer,2.0,Sample question text 707,Admin,2025-03-14
+708,Science,6.0,Algebra,hard,MCQ,2.0,Sample question text 708,Unknown,
+710,Science,7.0,Data Interpretation,medium,Short Answer,2.0,Sample question text 710,Unknown,
+711,Mathematics,7.0,Fractions,unknown,MCQ,2.0,Sample question text 711,Unknown,2025-02-14
+714,Mathematics,5.0,Algebra,unknown,True/False,2.0,Sample question text 714,Teacher A,
+717,Mathematics,7.0,Algebra,easy,True/False,2.0,Sample question text 717,Unknown,2025-01-10
+718,Mathematics,6.0,Algebra,unknown,MCQ,3.0,Sample question text 718,Admin,2025-02-14
+719,Mathematics,7.0,Algebra,medium,Word Problem,1.0,Sample question text 719,Unknown,2025-03-14
+721,Mathematics,6.0,Geometry,unknown,MCQ,3.0,Sample question text 721,Teacher B,
+722,English,7.0,Geometry,hard,Unknown,5.0,Sample question text 722,Unknown,
+723,Science,5.0,Geometry,unknown,True/False,2.0,Sample question text 723,Teacher B,
+728,English,6.0,Algebra,unknown,MCQ,2.0,Sample question text 728,Admin,
+731,Mathematics,5.0,Measurement,medium,Word Problem,2.0,Sample question text 731,Teacher A,2025-03-14
+738,Mathematics,6.0,Measurement,easy,Short Answer,1.0,Sample question text 738,Admin,2025-02-14
+741,Science,7.0,Geometry,easy,MCQ,2.0,Sample question text 741,Unknown,
+743,Mathematics,7.0,Geometry,medium,Short Answer,3.0,Sample question text 743,Teacher A,2025-03-14
+744,Mathematics,7.0,Geometry,easy,Short Answer,2.0,Sample question text 744,Admin,2025-03-14
+745,Mathematics,6.0,Algebra,unknown,MCQ,2.0,Sample question text 745,Teacher B,
+746,Mathematics,7.0,Geometry,easy,Unknown,2.0,Sample question text 746,Teacher A,2025-03-14
+747,Mathematics,6.0,Fractions,hard,MCQ,1.0,Sample question text 747,Teacher B,
+748,Mathematics,7.0,Algebra,hard,True/False,2.0,Sample question text 748,Teacher A,2025-02-14
+749,Mathematics,7.0,Data Interpretation,hard,Word Problem,2.0,Sample question text 749,Unknown,2025-03-14
+751,Mathematics,7.0,Measurement,hard,MCQ,2.0,Sample question text 751,Teacher A,2025-03-14
+752,Mathematics,7.0,Fractions,unknown,Unknown,2.0,Sample question text 752,Unknown,
+753,Mathematics,5.0,Data Interpretation,unknown,MCQ,2.0,Sample question text 753,Admin,
+754,Mathematics,7.0,Algebra,hard,MCQ,2.0,Sample question text 754,Admin,
+756,Mathematics,5.0,Measurement,medium,MCQ,5.0,Sample question text 756,Teacher A,2025-03-14
+759,Science,5.0,Fractions,easy,Word Problem,2.0,Sample question text 759,Unknown,2025-03-14
+760,Mathematics,5.0,Geometry,hard,True/False,2.0,Sample question text 760,Unknown,
+761,Mathematics,7.0,Measurement,unknown,True/False,2.0,Sample question text 761,Unknown,
+763,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 763,Admin,
+764,Science,5.0,Geometry,unknown,True/False,5.0,Sample question text 764,Admin,2025-03-14
+766,Mathematics,7.0,Measurement,easy,Short Answer,5.0,Sample question text 766,Unknown,
+769,Mathematics,6.0,Fractions,unknown,True/False,2.0,Sample question text 769,Teacher A,2025-03-14
+772,Mathematics,7.0,Algebra,hard,Word Problem,2.0,Sample question text 772,Teacher A,2025-01-10
+775,Mathematics,6.0,Fractions,unknown,Short Answer,2.0,Sample question text 775,Teacher B,2025-03-14
+780,Mathematics,5.0,Algebra,hard,Unknown,3.0,Sample question text 780,Admin,2025-03-14
+781,Mathematics,6.0,Geometry,hard,True/False,2.0,Sample question text 781,Unknown,
+782,Mathematics,5.0,Data Interpretation,hard,True/False,2.0,Sample question text 782,Unknown,
+783,Mathematics,5.0,Algebra,medium,Short Answer,1.0,Sample question text 783,Unknown,
+785,Mathematics,6.0,Data Interpretation,hard,Unknown,5.0,Sample question text 785,Teacher A,2025-01-10
+788,Mathematics,6.0,Algebra,hard,Unknown,1.0,Sample question text 788,Unknown,
+789,Science,6.0,Algebra,easy,MCQ,1.0,Sample question text 789,Teacher B,2025-03-14
+794,Mathematics,6.0,Algebra,easy,MCQ,2.0,Sample question text 794,Teacher B,2025-03-14
+795,Mathematics,6.0,Geometry,medium,Unknown,5.0,Sample question text 795,Teacher A,
+797,Science,5.0,Algebra,hard,True/False,2.0,Sample question text 797,Unknown,
+799,English,7.0,Measurement,hard,Short Answer,5.0,Sample question text 799,Admin,2025-01-10
+801,Mathematics,6.0,Geometry,easy,MCQ,2.0,Sample question text 801,Teacher B,2025-03-14
+803,English,5.0,Algebra,hard,Word Problem,2.0,Sample question text 803,Unknown,
+804,Mathematics,6.0,Geometry,hard,Short Answer,1.0,Sample question text 804,Unknown,2025-02-14
+806,English,6.0,Fractions,hard,Short Answer,3.0,Sample question text 806,Unknown,2025-03-14
+807,Mathematics,6.0,Algebra,hard,True/False,2.0,Sample question text 807,Unknown,
+808,Mathematics,5.0,Geometry,hard,Word Problem,2.0,Sample question text 808,Unknown,
+811,Science,6.0,Data Interpretation,easy,Short Answer,3.0,Sample question text 811,Teacher B,2025-03-14
+816,Science,5.0,Fractions,hard,Short Answer,5.0,Sample question text 816,Teacher A,2025-02-14
+817,Science,6.0,Measurement,easy,MCQ,5.0,Sample question text 817,Unknown,
+823,English,6.0,Data Interpretation,hard,MCQ,3.0,Sample question text 823,Teacher A,2025-02-14
+825,English,7.0,Fractions,unknown,Unknown,2.0,Sample question text 825,Teacher A,
+826,Mathematics,5.0,Fractions,medium,MCQ,2.0,Sample question text 826,Admin,
+827,Mathematics,6.0,Fractions,unknown,True/False,2.0,Sample question text 827,Teacher A,
+829,English,7.0,Geometry,easy,Word Problem,3.0,Sample question text 829,Teacher A,2025-03-14
+831,Mathematics,5.0,Measurement,easy,True/False,2.0,Sample question text 831,Teacher A,2025-01-10
+833,Mathematics,6.0,Geometry,medium,True/False,5.0,Sample question text 833,Unknown,2025-01-10
+835,English,6.0,Algebra,medium,Short Answer,2.0,Sample question text 835,Teacher A,
+837,Mathematics,6.0,Measurement,easy,True/False,5.0,Sample question text 837,Unknown,
+838,Mathematics,6.0,Data Interpretation,unknown,Short Answer,2.0,Sample question text 838,Teacher B,
+839,Science,7.0,Geometry,hard,True/False,2.0,Sample question text 839,Unknown,
+842,Mathematics,5.0,Fractions,medium,Word Problem,2.0,Sample question text 842,Unknown,2025-01-10
+844,Mathematics,7.0,Fractions,easy,MCQ,1.0,Sample question text 844,Unknown,2025-02-14
+847,Mathematics,6.0,Data Interpretation,hard,Word Problem,3.0,Sample question text 847,Teacher A,2025-01-10
+848,Science,6.0,Data Interpretation,easy,MCQ,1.0,Sample question text 848,Admin,2025-03-14
+851,Science,7.0,Fractions,unknown,Word Problem,2.0,Sample question text 851,Unknown,2025-03-14
+852,Mathematics,7.0,Data Interpretation,hard,True/False,3.0,Sample question text 852,Unknown,
+853,Mathematics,7.0,Fractions,unknown,Word Problem,1.0,Sample question text 853,Unknown,2025-02-14
+857,Science,5.0,Geometry,hard,True/False,2.0,Sample question text 857,Teacher A,2025-03-14
+858,Mathematics,7.0,Fractions,unknown,Word Problem,1.0,Sample question text 858,Teacher A,2025-02-14
+859,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 859,Teacher A,
+860,Mathematics,6.0,Algebra,medium,MCQ,3.0,Sample question text 860,Unknown,2025-02-14
+864,Science,6.0,Algebra,medium,Unknown,2.0,Sample question text 864,Unknown,2025-01-10
+869,Science,6.0,Algebra,unknown,Word Problem,2.0,Sample question text 869,Admin,
+870,English,6.0,Algebra,unknown,True/False,2.0,Sample question text 870,Admin,2025-02-14
+872,Mathematics,6.0,Fractions,unknown,True/False,1.0,Sample question text 872,Unknown,2025-01-10
+874,Science,5.0,Fractions,hard,Short Answer,2.0,Sample question text 874,Unknown,2025-02-14
+876,Mathematics,6.0,Fractions,hard,MCQ,2.0,Sample question text 876,Teacher A,
+884,Mathematics,6.0,Algebra,easy,MCQ,3.0,Sample question text 884,Unknown,2025-02-14
+886,Mathematics,7.0,Geometry,medium,True/False,5.0,Sample question text 886,Teacher B,
+887,English,6.0,Fractions,hard,Short Answer,2.0,Sample question text 887,Admin,2025-03-14
+893,Science,7.0,Data Interpretation,hard,Short Answer,2.0,Sample question text 893,Unknown,
+894,Mathematics,6.0,Measurement,unknown,Short Answer,2.0,Sample question text 894,Teacher A,
+897,Mathematics,5.0,Data Interpretation,hard,Unknown,2.0,Sample question text 897,Unknown,
+898,Science,6.0,Algebra,easy,Short Answer,2.0,Sample question text 898,Unknown,
+899,Mathematics,6.0,Fractions,easy,Unknown,2.0,Sample question text 899,Admin,
+900,Mathematics,6.0,Algebra,unknown,Unknown,2.0,Sample question text 900,Unknown,2025-02-14
+906,Mathematics,6.0,Fractions,easy,Unknown,2.0,Sample question text 906,Teacher B,2025-01-10
+910,Science,6.0,Measurement,medium,Short Answer,2.0,Sample question text 910,Admin,
+912,English,5.0,Measurement,medium,Word Problem,2.0,Sample question text 912,Unknown,
+913,English,7.0,Measurement,unknown,True/False,2.0,Sample question text 913,Teacher B,2025-01-10
+914,Science,7.0,Geometry,easy,Unknown,2.0,Sample question text 914,Teacher B,
+915,English,6.0,Fractions,easy,Unknown,1.0,Sample question text 915,Teacher A,2025-01-10
+919,English,7.0,Fractions,hard,MCQ,5.0,Sample question text 919,Teacher B,
+920,Mathematics,6.0,Geometry,hard,MCQ,2.0,Sample question text 920,Admin,2025-01-10
+923,Mathematics,7.0,Geometry,easy,MCQ,2.0,Sample question text 923,Unknown,2025-03-14
+926,English,5.0,Measurement,unknown,Short Answer,1.0,Sample question text 926,Teacher A,
+927,Mathematics,5.0,Measurement,easy,True/False,2.0,Sample question text 927,Admin,
+929,Mathematics,7.0,Measurement,medium,Word Problem,1.0,Sample question text 929,Teacher A,2025-01-10
+933,Mathematics,5.0,Algebra,easy,MCQ,2.0,Sample question text 933,Unknown,2025-03-14
+939,Mathematics,7.0,Algebra,easy,MCQ,1.0,Sample question text 939,Teacher B,
+942,Mathematics,6.0,Algebra,medium,Word Problem,2.0,Sample question text 942,Teacher A,
+945,Mathematics,5.0,Fractions,easy,MCQ,2.0,Sample question text 945,Unknown,2025-02-14
+948,Mathematics,5.0,Geometry,hard,Word Problem,2.0,Sample question text 948,Unknown,2025-01-10
+949,Science,6.0,Geometry,unknown,Word Problem,3.0,Sample question text 949,Teacher B,2025-03-14
+950,Science,7.0,Algebra,medium,MCQ,2.0,Sample question text 950,Teacher A,2025-01-10
+952,Mathematics,7.0,Data Interpretation,medium,True/False,2.0,Sample question text 952,Teacher A,2025-03-14
+954,Mathematics,6.0,Measurement,hard,MCQ,2.0,Sample question text 954,Unknown,2025-01-10
+955,Mathematics,7.0,Fractions,easy,Short Answer,2.0,Sample question text 955,Unknown,
+956,Mathematics,7.0,Fractions,hard,Word Problem,2.0,Sample question text 956,Teacher A,
+959,Science,6.0,Fractions,easy,Short Answer,1.0,Sample question text 959,Unknown,2025-01-10
+960,Science,7.0,Measurement,hard,MCQ,5.0,Sample question text 960,Teacher B,
+961,Mathematics,6.0,Algebra,unknown,MCQ,1.0,Sample question text 961,Unknown,
+963,Mathematics,6.0,Algebra,unknown,Word Problem,2.0,Sample question text 963,Teacher B,2025-02-14
+966,English,5.0,Fractions,medium,Unknown,2.0,Sample question text 966,Teacher A,2025-02-14
+968,Mathematics,7.0,Fractions,easy,Short Answer,2.0,Sample question text 968,Unknown,2025-01-10
+970,English,7.0,Algebra,hard,True/False,3.0,Sample question text 970,Unknown,
+971,Science,7.0,Fractions,hard,MCQ,2.0,Sample question text 971,Teacher A,2025-01-10
+975,Mathematics,7.0,Data Interpretation,easy,True/False,2.0,Sample question text 975,Unknown,2025-03-14
+980,Mathematics,7.0,Fractions,easy,True/False,2.0,Sample question text 980,Admin,
+981,Mathematics,6.0,Geometry,medium,Unknown,2.0,Sample question text 981,Teacher B,2025-03-14
+982,English,7.0,Geometry,hard,Short Answer,2.0,Sample question text 982,Teacher B,
+984,Mathematics,6.0,Fractions,unknown,MCQ,5.0,Sample question text 984,Teacher B,
+986,Science,7.0,Data Interpretation,hard,MCQ,3.0,Sample question text 986,Unknown,
+987,English,6.0,Algebra,hard,Word Problem,2.0,Sample question text 987,Teacher B,2025-02-14
+989,Mathematics,7.0,Geometry,hard,MCQ,3.0,Sample question text 989,Admin,
+990,Science,7.0,Algebra,hard,MCQ,2.0,Sample question text 990,Teacher A,2025-01-10
+991,Mathematics,7.0,Fractions,medium,Short Answer,2.0,Sample question text 991,Teacher A,
+994,English,7.0,Geometry,unknown,True/False,2.0,Sample question text 994,Teacher B,2025-03-14
+996,Mathematics,6.0,Geometry,medium,Word Problem,2.0,Sample question text 996,Teacher B,2025-02-14
+1001,Mathematics,6.0,Algebra,medium,MCQ,2.0,Sample question text 1001,Teacher B,2025-03-14
+1008,Mathematics,6.0,Geometry,unknown,MCQ,2.0,Sample question text 1008,Unknown,
+1009,Mathematics,5.0,Geometry,easy,Word Problem,2.0,Sample question text 1009,Teacher A,
+1010,Mathematics,5.0,Fractions,medium,Unknown,5.0,Sample question text 1010,Unknown,2025-01-10
+1011,English,5.0,Geometry,easy,True/False,2.0,Sample question text 1011,Unknown,2025-03-14
+1015,Science,5.0,Geometry,hard,MCQ,3.0,Sample question text 1015,Admin,2025-01-10
+1016,Science,5.0,Measurement,medium,True/False,2.0,Sample question text 1016,Teacher B,2025-01-10
+1020,Mathematics,6.0,Algebra,unknown,MCQ,2.0,Sample question text 1020,Teacher B,2025-02-14
+1021,Mathematics,5.0,Fractions,easy,True/False,2.0,Sample question text 1021,Teacher B,2025-01-10
+1024,Mathematics,7.0,Fractions,unknown,Unknown,2.0,Sample question text 1024,Unknown,2025-01-10
+1027,Science,7.0,Fractions,easy,Word Problem,2.0,Sample question text 1027,Teacher A,
+1028,Science,6.0,Fractions,medium,MCQ,2.0,Sample question text 1028,Teacher A,2025-02-14
+1029,English,6.0,Algebra,hard,Unknown,5.0,Sample question text 1029,Teacher B,
+1030,Mathematics,6.0,Fractions,hard,MCQ,2.0,Sample question text 1030,Teacher A,
+1031,Mathematics,6.0,Fractions,medium,True/False,5.0,Sample question text 1031,Admin,2025-03-14
+1032,Mathematics,7.0,Fractions,hard,Short Answer,1.0,Sample question text 1032,Teacher B,
+1035,Mathematics,7.0,Algebra,easy,Unknown,3.0,Sample question text 1035,Teacher A,2025-02-14
+1037,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 1037,Teacher B,2025-02-14
+1038,English,7.0,Measurement,medium,Word Problem,5.0,Sample question text 1038,Teacher B,
+1039,Mathematics,5.0,Geometry,easy,MCQ,2.0,Sample question text 1039,Teacher B,
+1040,Mathematics,5.0,Measurement,hard,MCQ,2.0,Sample question text 1040,Unknown,2025-01-10
+1041,Mathematics,6.0,Fractions,unknown,Short Answer,3.0,Sample question text 1041,Unknown,2025-03-14
+1046,Mathematics,6.0,Algebra,unknown,Word Problem,2.0,Sample question text 1046,Teacher A,2025-03-14
+1050,Mathematics,7.0,Fractions,easy,Word Problem,2.0,Sample question text 1050,Unknown,
+1053,English,5.0,Algebra,medium,True/False,2.0,Sample question text 1053,Teacher A,2025-01-10
+1054,Mathematics,5.0,Geometry,easy,Word Problem,1.0,Sample question text 1054,Unknown,2025-02-14
+1055,Mathematics,6.0,Measurement,hard,True/False,1.0,Sample question text 1055,Unknown,2025-01-10
+1056,Science,7.0,Measurement,easy,Word Problem,2.0,Sample question text 1056,Unknown,2025-03-14
+1060,Mathematics,6.0,Algebra,unknown,MCQ,2.0,Sample question text 1060,Teacher A,2025-02-14
+1061,Mathematics,6.0,Geometry,medium,Word Problem,2.0,Sample question text 1061,Unknown,2025-01-10
+1065,Science,6.0,Algebra,easy,MCQ,2.0,Sample question text 1065,Teacher B,
+1070,English,6.0,Geometry,easy,Word Problem,2.0,Sample question text 1070,Admin,
+1071,Mathematics,7.0,Fractions,easy,True/False,3.0,Sample question text 1071,Teacher B,2025-03-14
+1072,English,6.0,Algebra,easy,Unknown,2.0,Sample question text 1072,Admin,
+1074,Mathematics,5.0,Measurement,unknown,MCQ,2.0,Sample question text 1074,Unknown,
+1077,Science,7.0,Geometry,medium,Short Answer,2.0,Sample question text 1077,Unknown,
+1078,English,7.0,Fractions,unknown,Short Answer,2.0,Sample question text 1078,Unknown,2025-01-10
+1079,English,6.0,Fractions,medium,Unknown,2.0,Sample question text 1079,Teacher B,2025-01-10
+1080,Mathematics,7.0,Fractions,easy,True/False,2.0,Sample question text 1080,Teacher A,2025-01-10
+1083,Mathematics,5.0,Algebra,easy,Short Answer,5.0,Sample question text 1083,Admin,2025-01-10
+1084,Mathematics,5.0,Algebra,hard,True/False,3.0,Sample question text 1084,Teacher A,2025-03-14
+1086,Mathematics,6.0,Measurement,unknown,MCQ,2.0,Sample question text 1086,Admin,2025-01-10
+1087,Mathematics,6.0,Geometry,unknown,True/False,2.0,Sample question text 1087,Teacher B,2025-02-14
+1088,Science,6.0,Geometry,medium,Short Answer,3.0,Sample question text 1088,Unknown,2025-01-10
+1089,Mathematics,7.0,Fractions,easy,MCQ,2.0,Sample question text 1089,Unknown,
+1092,Science,6.0,Algebra,medium,True/False,2.0,Sample question text 1092,Teacher B,2025-03-14
+1093,Mathematics,7.0,Geometry,medium,Short Answer,2.0,Sample question text 1093,Teacher A,2025-03-14
+1094,Science,6.0,Geometry,medium,True/False,5.0,Sample question text 1094,Teacher B,
+1098,Mathematics,7.0,Algebra,easy,MCQ,1.0,Sample question text 1098,Teacher A,2025-01-10
+1100,Mathematics,6.0,Geometry,hard,Unknown,3.0,Sample question text 1100,Teacher A,
+1101,Mathematics,6.0,Geometry,unknown,Word Problem,2.0,Sample question text 1101,Admin,2025-01-10
+1103,Science,6.0,Geometry,hard,Word Problem,5.0,Sample question text 1103,Admin,2025-02-14
+1106,English,7.0,Fractions,medium,Word Problem,2.0,Sample question text 1106,Teacher A,
+1107,Mathematics,7.0,Measurement,unknown,MCQ,2.0,Sample question text 1107,Admin,
+1108,Mathematics,7.0,Geometry,medium,Unknown,2.0,Sample question text 1108,Teacher A,2025-03-14
+1110,Science,7.0,Fractions,easy,Short Answer,2.0,Sample question text 1110,Admin,2025-03-14
+1111,Mathematics,6.0,Data Interpretation,hard,Unknown,1.0,Sample question text 1111,Admin,
+1113,Mathematics,7.0,Geometry,unknown,MCQ,3.0,Sample question text 1113,Teacher B,
+1117,Mathematics,7.0,Measurement,easy,True/False,2.0,Sample question text 1117,Unknown,2025-03-14
+1120,Mathematics,6.0,Algebra,medium,MCQ,1.0,Sample question text 1120,Admin,2025-02-14
+1121,Mathematics,7.0,Geometry,easy,Short Answer,2.0,Sample question text 1121,Unknown,
+1123,Mathematics,5.0,Algebra,medium,True/False,2.0,Sample question text 1123,Admin,
+1124,Science,7.0,Fractions,hard,MCQ,2.0,Sample question text 1124,Unknown,
+1129,Mathematics,7.0,Algebra,medium,True/False,3.0,Sample question text 1129,Teacher B,
+1130,English,7.0,Geometry,easy,Short Answer,3.0,Sample question text 1130,Teacher A,2025-01-10
+1131,English,6.0,Geometry,unknown,Unknown,3.0,Sample question text 1131,Unknown,
+1132,Mathematics,6.0,Algebra,medium,Unknown,2.0,Sample question text 1132,Teacher A,
+1134,Science,7.0,Algebra,unknown,MCQ,2.0,Sample question text 1134,Teacher A,2025-03-14
+1137,Science,6.0,Algebra,hard,Unknown,5.0,Sample question text 1137,Unknown,2025-02-14
+1138,English,5.0,Geometry,medium,True/False,3.0,Sample question text 1138,Unknown,
+1139,Science,6.0,Fractions,unknown,Short Answer,2.0,Sample question text 1139,Teacher A,2025-01-10
+1140,English,5.0,Geometry,easy,True/False,2.0,Sample question text 1140,Unknown,
+1142,Mathematics,7.0,Algebra,medium,Short Answer,1.0,Sample question text 1142,Admin,
+1143,Mathematics,6.0,Algebra,easy,Word Problem,5.0,Sample question text 1143,Admin,2025-01-10
+1145,Science,7.0,Measurement,easy,MCQ,2.0,Sample question text 1145,Teacher A,2025-02-14
+1147,English,6.0,Measurement,medium,True/False,2.0,Sample question text 1147,Teacher A,2025-03-14
+1148,Mathematics,5.0,Geometry,easy,MCQ,5.0,Sample question text 1148,Teacher A,2025-01-10
+1149,Mathematics,7.0,Geometry,unknown,Word Problem,5.0,Sample question text 1149,Admin,
+1150,Science,6.0,Fractions,easy,Word Problem,2.0,Sample question text 1150,Admin,2025-03-14
+1151,English,5.0,Measurement,easy,MCQ,5.0,Sample question text 1151,Unknown,2025-01-10
+1152,English,7.0,Algebra,easy,Word Problem,3.0,Sample question text 1152,Admin,
+1160,Mathematics,7.0,Fractions,medium,MCQ,2.0,Sample question text 1160,Teacher A,2025-03-14
+1161,Mathematics,5.0,Measurement,easy,MCQ,5.0,Sample question text 1161,Teacher A,2025-01-10
+1163,Mathematics,7.0,Measurement,unknown,MCQ,2.0,Sample question text 1163,Unknown,
+1164,English,6.0,Fractions,medium,Word Problem,3.0,Sample question text 1164,Unknown,2025-01-10
+1168,Science,7.0,Fractions,hard,MCQ,2.0,Sample question text 1168,Teacher A,
+1169,Mathematics,5.0,Fractions,medium,Word Problem,3.0,Sample question text 1169,Unknown,
+1173,Mathematics,7.0,Algebra,unknown,Word Problem,3.0,Sample question text 1173,Admin,2025-03-14
+1175,Mathematics,6.0,Measurement,hard,Short Answer,2.0,Sample question text 1175,Unknown,
+1176,Mathematics,7.0,Fractions,easy,True/False,3.0,Sample question text 1176,Admin,2025-03-14
+1177,Mathematics,6.0,Data Interpretation,easy,Short Answer,2.0,Sample question text 1177,Unknown,
+1180,Science,5.0,Algebra,medium,MCQ,2.0,Sample question text 1180,Admin,2025-03-14
+1181,Mathematics,5.0,Data Interpretation,easy,Short Answer,2.0,Sample question text 1181,Unknown,2025-03-14
+1183,Science,7.0,Fractions,easy,True/False,2.0,Sample question text 1183,Admin,
+1185,Mathematics,7.0,Measurement,hard,MCQ,2.0,Sample question text 1185,Unknown,2025-01-10
+1186,Mathematics,7.0,Geometry,easy,Unknown,2.0,Sample question text 1186,Unknown,2025-01-10
+1192,Mathematics,6.0,Fractions,hard,Short Answer,3.0,Sample question text 1192,Teacher B,2025-01-10
+1198,Science,7.0,Data Interpretation,medium,MCQ,1.0,Sample question text 1198,Teacher A,2025-03-14
+1202,Mathematics,5.0,Algebra,hard,MCQ,3.0,Sample question text 1202,Admin,2025-01-10
+1204,Mathematics,7.0,Geometry,unknown,MCQ,3.0,Sample question text 1204,Unknown,
+1206,Mathematics,7.0,Data Interpretation,easy,MCQ,2.0,Sample question text 1206,Unknown,2025-02-14
+1212,Mathematics,6.0,Fractions,hard,Unknown,1.0,Sample question text 1212,Teacher B,2025-01-10
+1213,Mathematics,6.0,Geometry,medium,Unknown,5.0,Sample question text 1213,Admin,
+1216,Science,6.0,Geometry,medium,Unknown,5.0,Sample question text 1216,Teacher A,2025-01-10
+1222,Mathematics,5.0,Fractions,unknown,MCQ,2.0,Sample question text 1222,Teacher B,2025-03-14
+1223,Science,6.0,Measurement,hard,True/False,3.0,Sample question text 1223,Unknown,
+1225,Mathematics,6.0,Data Interpretation,hard,Unknown,2.0,Sample question text 1225,Teacher A,
+1226,English,5.0,Algebra,medium,Word Problem,5.0,Sample question text 1226,Unknown,2025-01-10
+1228,English,7.0,Measurement,unknown,Word Problem,3.0,Sample question text 1228,Teacher A,
+1230,Mathematics,5.0,Measurement,easy,True/False,5.0,Sample question text 1230,Admin,2025-03-14
+1232,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 1232,Teacher A,2025-01-10
+1235,Science,7.0,Data Interpretation,hard,Word Problem,2.0,Sample question text 1235,Teacher B,2025-01-10
+1239,Mathematics,6.0,Geometry,medium,MCQ,2.0,Sample question text 1239,Teacher A,2025-02-14
+1240,Mathematics,6.0,Algebra,unknown,Short Answer,2.0,Sample question text 1240,Unknown,
+1243,English,7.0,Fractions,hard,Word Problem,1.0,Sample question text 1243,Teacher B,2025-01-10
+1244,Science,7.0,Geometry,unknown,True/False,5.0,Sample question text 1244,Unknown,
+1252,Mathematics,7.0,Algebra,easy,True/False,2.0,Sample question text 1252,Teacher A,2025-01-10
+1254,Mathematics,7.0,Fractions,medium,MCQ,1.0,Sample question text 1254,Teacher B,2025-02-14
+1256,Mathematics,7.0,Algebra,hard,MCQ,2.0,Sample question text 1256,Teacher B,2025-01-10
+1260,Mathematics,7.0,Fractions,medium,Short Answer,1.0,Sample question text 1260,Admin,2025-01-10
+1266,Science,7.0,Geometry,easy,Word Problem,5.0,Sample question text 1266,Unknown,
+1267,Science,7.0,Data Interpretation,hard,MCQ,2.0,Sample question text 1267,Admin,2025-01-10
+1270,Mathematics,6.0,Algebra,unknown,Unknown,2.0,Sample question text 1270,Teacher B,2025-02-14
+1274,English,6.0,Algebra,easy,MCQ,2.0,Sample question text 1274,Admin,2025-02-14
+1276,Science,5.0,Algebra,easy,True/False,2.0,Sample question text 1276,Unknown,2025-01-10
+1277,Mathematics,6.0,Fractions,medium,MCQ,2.0,Sample question text 1277,Teacher B,2025-03-14
+1279,Mathematics,7.0,Measurement,unknown,MCQ,1.0,Sample question text 1279,Unknown,2025-01-10
+1282,Mathematics,7.0,Fractions,medium,Short Answer,2.0,Sample question text 1282,Teacher A,2025-03-14
+1284,Mathematics,6.0,Geometry,easy,Unknown,2.0,Sample question text 1284,Unknown,2025-01-10
+1287,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 1287,Unknown,
+1291,Mathematics,5.0,Data Interpretation,unknown,MCQ,2.0,Sample question text 1291,Unknown,
+1294,Mathematics,7.0,Geometry,easy,MCQ,2.0,Sample question text 1294,Admin,2025-02-14
+1295,Mathematics,6.0,Algebra,unknown,MCQ,1.0,Sample question text 1295,Unknown,2025-03-14
+1297,Mathematics,7.0,Geometry,hard,Word Problem,2.0,Sample question text 1297,Admin,
+1298,Mathematics,7.0,Measurement,hard,MCQ,1.0,Sample question text 1298,Teacher A,2025-01-10
+1300,Mathematics,7.0,Geometry,easy,True/False,1.0,Sample question text 1300,Teacher A,
+1301,Mathematics,7.0,Geometry,easy,Word Problem,2.0,Sample question text 1301,Teacher B,
+1302,Mathematics,7.0,Geometry,easy,Short Answer,5.0,Sample question text 1302,Admin,2025-01-10
+1303,Mathematics,5.0,Fractions,easy,Unknown,1.0,Sample question text 1303,Teacher B,2025-01-10
+1306,Science,5.0,Algebra,medium,Short Answer,5.0,Sample question text 1306,Teacher B,2025-01-10
+1307,Mathematics,6.0,Data Interpretation,medium,True/False,2.0,Sample question text 1307,Admin,2025-01-10
+1312,Mathematics,5.0,Data Interpretation,hard,MCQ,1.0,Sample question text 1312,Teacher A,2025-02-14
+1313,Mathematics,6.0,Geometry,medium,Short Answer,2.0,Sample question text 1313,Admin,
+1314,English,7.0,Fractions,medium,MCQ,2.0,Sample question text 1314,Unknown,
+1315,English,7.0,Algebra,hard,Short Answer,3.0,Sample question text 1315,Unknown,
+1316,Science,6.0,Algebra,medium,Unknown,1.0,Sample question text 1316,Admin,2025-01-10
+1317,Mathematics,7.0,Algebra,medium,True/False,1.0,Sample question text 1317,Unknown,
+1321,Mathematics,7.0,Algebra,hard,MCQ,1.0,Sample question text 1321,Unknown,2025-01-10
+1324,Mathematics,7.0,Algebra,easy,Short Answer,2.0,Sample question text 1324,Unknown,2025-01-10
+1326,English,7.0,Algebra,easy,MCQ,2.0,Sample question text 1326,Unknown,2025-01-10
+1330,English,6.0,Geometry,unknown,MCQ,2.0,Sample question text 1330,Unknown,
+1335,English,7.0,Algebra,unknown,Word Problem,1.0,Sample question text 1335,Unknown,
+1337,Science,6.0,Geometry,medium,MCQ,5.0,Sample question text 1337,Admin,2025-02-14
+1338,Science,7.0,Data Interpretation,hard,MCQ,2.0,Sample question text 1338,Unknown,
+1339,Science,7.0,Fractions,hard,True/False,5.0,Sample question text 1339,Teacher B,2025-03-14
+1343,Science,7.0,Fractions,hard,Unknown,2.0,Sample question text 1343,Unknown,
+1346,Mathematics,6.0,Fractions,easy,Unknown,2.0,Sample question text 1346,Admin,2025-03-14
+1350,Science,5.0,Measurement,hard,Unknown,5.0,Sample question text 1350,Teacher A,2025-02-14
+1351,English,5.0,Data Interpretation,unknown,MCQ,2.0,Sample question text 1351,Unknown,2025-03-14
+1352,Mathematics,5.0,Geometry,easy,MCQ,1.0,Sample question text 1352,Unknown,2025-01-10
+1354,Mathematics,6.0,Algebra,unknown,Short Answer,2.0,Sample question text 1354,Unknown,2025-02-14
+1357,Mathematics,7.0,Fractions,medium,Short Answer,2.0,Sample question text 1357,Unknown,
+1359,Science,6.0,Data Interpretation,medium,True/False,5.0,Sample question text 1359,Admin,2025-03-14
+1366,Mathematics,6.0,Fractions,medium,MCQ,2.0,Sample question text 1366,Unknown,
+1368,Mathematics,6.0,Algebra,easy,True/False,2.0,Sample question text 1368,Unknown,
+1371,Mathematics,6.0,Measurement,easy,Unknown,2.0,Sample question text 1371,Teacher A,
+1372,Science,6.0,Measurement,easy,Word Problem,2.0,Sample question text 1372,Unknown,2025-01-10
+1374,Mathematics,7.0,Data Interpretation,easy,Word Problem,2.0,Sample question text 1374,Unknown,
+1375,Science,7.0,Measurement,medium,MCQ,3.0,Sample question text 1375,Admin,2025-02-14
+1379,Science,5.0,Fractions,medium,True/False,1.0,Sample question text 1379,Unknown,2025-02-14
+1383,Science,6.0,Geometry,medium,MCQ,3.0,Sample question text 1383,Admin,2025-03-14
+1384,Science,5.0,Geometry,unknown,Short Answer,2.0,Sample question text 1384,Teacher A,2025-03-14
+1389,English,6.0,Measurement,medium,True/False,2.0,Sample question text 1389,Unknown,2025-03-14
+1390,Mathematics,6.0,Algebra,easy,MCQ,2.0,Sample question text 1390,Admin,2025-01-10
+1391,English,7.0,Algebra,medium,Short Answer,1.0,Sample question text 1391,Unknown,
+1392,English,6.0,Algebra,easy,MCQ,2.0,Sample question text 1392,Unknown,2025-03-14
+1393,Mathematics,5.0,Geometry,medium,MCQ,2.0,Sample question text 1393,Unknown,2025-03-14
+1394,English,6.0,Data Interpretation,medium,Short Answer,2.0,Sample question text 1394,Unknown,2025-01-10
+1395,English,6.0,Fractions,medium,MCQ,2.0,Sample question text 1395,Teacher A,
+1397,Mathematics,6.0,Measurement,hard,Short Answer,5.0,Sample question text 1397,Unknown,2025-02-14
+1398,Mathematics,6.0,Fractions,unknown,MCQ,2.0,Sample question text 1398,Admin,2025-02-14
+1402,English,7.0,Measurement,medium,Word Problem,5.0,Sample question text 1402,Teacher A,2025-03-14
+1405,Science,6.0,Fractions,unknown,True/False,2.0,Sample question text 1405,Unknown,
+1407,Mathematics,6.0,Algebra,unknown,MCQ,3.0,Sample question text 1407,Teacher B,
+1409,Mathematics,5.0,Algebra,easy,MCQ,5.0,Sample question text 1409,Unknown,2025-02-14
+1410,Mathematics,5.0,Fractions,unknown,Unknown,1.0,Sample question text 1410,Unknown,2025-03-14
+1414,Mathematics,6.0,Geometry,unknown,Short Answer,2.0,Sample question text 1414,Teacher B,2025-01-10
+1415,Mathematics,5.0,Data Interpretation,unknown,True/False,5.0,Sample question text 1415,Unknown,2025-02-14
+1416,Mathematics,5.0,Geometry,hard,MCQ,3.0,Sample question text 1416,Unknown,
+1417,Mathematics,7.0,Measurement,hard,MCQ,2.0,Sample question text 1417,Unknown,2025-01-10
+1421,Science,6.0,Fractions,hard,Word Problem,1.0,Sample question text 1421,Unknown,2025-03-14
+1425,Science,5.0,Data Interpretation,easy,Word Problem,5.0,Sample question text 1425,Teacher B,2025-03-14
+1426,Science,6.0,Algebra,unknown,Short Answer,5.0,Sample question text 1426,Unknown,2025-02-14
+1427,Science,6.0,Measurement,easy,Short Answer,1.0,Sample question text 1427,Unknown,
+1428,Mathematics,6.0,Measurement,medium,True/False,2.0,Sample question text 1428,Unknown,2025-01-10
+1430,Science,7.0,Algebra,hard,True/False,5.0,Sample question text 1430,Unknown,
+1432,Mathematics,5.0,Measurement,easy,Short Answer,5.0,Sample question text 1432,Unknown,2025-03-14
+1433,Science,5.0,Geometry,hard,Unknown,2.0,Sample question text 1433,Unknown,2025-03-14
+1435,Mathematics,7.0,Fractions,unknown,Word Problem,2.0,Sample question text 1435,Unknown,2025-01-10
+1438,Science,6.0,Geometry,hard,Short Answer,2.0,Sample question text 1438,Teacher A,2025-03-14
+1442,English,7.0,Algebra,medium,MCQ,2.0,Sample question text 1442,Unknown,
+1443,English,5.0,Algebra,medium,Unknown,5.0,Sample question text 1443,Unknown,2025-03-14
+1444,Mathematics,5.0,Geometry,hard,Unknown,3.0,Sample question text 1444,Admin,2025-03-14
+1449,Mathematics,6.0,Fractions,easy,Short Answer,2.0,Sample question text 1449,Unknown,
+1451,Science,7.0,Fractions,medium,MCQ,2.0,Sample question text 1451,Teacher B,2025-01-10
+1452,English,7.0,Algebra,hard,MCQ,2.0,Sample question text 1452,Unknown,
+1454,Mathematics,7.0,Fractions,unknown,Unknown,5.0,Sample question text 1454,Teacher A,
+1456,Mathematics,5.0,Algebra,unknown,True/False,2.0,Sample question text 1456,Unknown,2025-03-14
+1460,English,7.0,Geometry,medium,MCQ,3.0,Sample question text 1460,Teacher B,2025-02-14
+1463,Mathematics,7.0,Fractions,unknown,Word Problem,2.0,Sample question text 1463,Admin,
+1465,English,6.0,Data Interpretation,easy,MCQ,2.0,Sample question text 1465,Unknown,2025-01-10
+1468,Mathematics,7.0,Algebra,easy,Short Answer,3.0,Sample question text 1468,Unknown,2025-02-14
+1470,Mathematics,5.0,Fractions,easy,Short Answer,2.0,Sample question text 1470,Unknown,2025-03-14
+1473,Mathematics,7.0,Fractions,hard,MCQ,1.0,Sample question text 1473,Unknown,2025-02-14
+1479,Mathematics,5.0,Geometry,easy,MCQ,2.0,Sample question text 1479,Teacher A,
+1480,Mathematics,6.0,Geometry,easy,Short Answer,2.0,Sample question text 1480,Admin,
+1483,Mathematics,7.0,Data Interpretation,easy,MCQ,3.0,Sample question text 1483,Teacher A,
+1487,Mathematics,7.0,Measurement,easy,Short Answer,5.0,Sample question text 1487,Unknown,2025-02-14
+1488,Mathematics,6.0,Geometry,medium,True/False,2.0,Sample question text 1488,Teacher B,
+1492,Mathematics,7.0,Algebra,easy,Word Problem,2.0,Sample question text 1492,Teacher A,
+1493,Mathematics,6.0,Algebra,unknown,Unknown,5.0,Sample question text 1493,Teacher B,2025-02-14
+1494,Mathematics,5.0,Fractions,unknown,True/False,3.0,Sample question text 1494,Teacher B,
+1496,Mathematics,6.0,Algebra,medium,Unknown,3.0,Sample question text 1496,Admin,2025-02-14
+1497,Mathematics,5.0,Algebra,hard,MCQ,2.0,Sample question text 1497,Admin,
+1498,English,7.0,Data Interpretation,easy,MCQ,2.0,Sample question text 1498,Teacher A,2025-03-14
+1505,Science,7.0,Fractions,medium,True/False,5.0,Sample question text 1505,Teacher B,2025-03-14
+1508,English,7.0,Measurement,unknown,Unknown,2.0,Sample question text 1508,Unknown,2025-01-10
+1510,Mathematics,6.0,Fractions,hard,Short Answer,3.0,Sample question text 1510,Admin,
+1513,Science,6.0,Algebra,easy,Unknown,2.0,Sample question text 1513,Admin,2025-01-10
+1514,Science,7.0,Data Interpretation,medium,Short Answer,1.0,Sample question text 1514,Teacher A,
+1515,Mathematics,7.0,Measurement,easy,Short Answer,2.0,Sample question text 1515,Admin,2025-01-10
+1517,Mathematics,5.0,Geometry,hard,Short Answer,2.0,Sample question text 1517,Admin,
+1521,Science,7.0,Geometry,hard,Unknown,5.0,Sample question text 1521,Admin,2025-02-14
+1522,Science,5.0,Data Interpretation,unknown,Word Problem,5.0,Sample question text 1522,Teacher A,
+1531,Mathematics,6.0,Data Interpretation,hard,True/False,2.0,Sample question text 1531,Unknown,
+1532,Mathematics,5.0,Fractions,easy,True/False,2.0,Sample question text 1532,Teacher A,2025-02-14
+1533,Mathematics,5.0,Geometry,medium,True/False,2.0,Sample question text 1533,Unknown,2025-03-14
+1536,English,6.0,Geometry,medium,True/False,5.0,Sample question text 1536,Unknown,
+1537,Mathematics,7.0,Fractions,easy,MCQ,2.0,Sample question text 1537,Teacher B,
+1543,Mathematics,6.0,Geometry,medium,Short Answer,2.0,Sample question text 1543,Admin,2025-03-14
+1544,Mathematics,5.0,Geometry,unknown,MCQ,2.0,Sample question text 1544,Teacher B,2025-01-10
+1546,Science,7.0,Geometry,hard,Unknown,2.0,Sample question text 1546,Teacher A,2025-01-10
+1547,Science,7.0,Data Interpretation,medium,Unknown,2.0,Sample question text 1547,Teacher B,2025-02-14
+1548,English,7.0,Algebra,easy,True/False,2.0,Sample question text 1548,Admin,
+1553,Mathematics,6.0,Geometry,easy,Word Problem,1.0,Sample question text 1553,Unknown,2025-02-14
+1556,Mathematics,7.0,Fractions,hard,MCQ,3.0,Sample question text 1556,Teacher A,
+1557,Science,6.0,Data Interpretation,easy,Word Problem,2.0,Sample question text 1557,Unknown,2025-01-10
+1558,Mathematics,7.0,Fractions,easy,Word Problem,2.0,Sample question text 1558,Unknown,
+1563,Mathematics,5.0,Measurement,easy,True/False,3.0,Sample question text 1563,Teacher B,
+1565,Science,7.0,Fractions,unknown,Unknown,5.0,Sample question text 1565,Teacher A,2025-03-14
+1566,English,7.0,Geometry,easy,Short Answer,1.0,Sample question text 1566,Teacher A,2025-02-14
+1567,Mathematics,7.0,Measurement,unknown,Short Answer,3.0,Sample question text 1567,Unknown,2025-02-14
+1568,Mathematics,5.0,Fractions,easy,Short Answer,1.0,Sample question text 1568,Unknown,
+1570,Mathematics,7.0,Fractions,medium,Unknown,2.0,Sample question text 1570,Admin,
+1571,Mathematics,6.0,Geometry,unknown,MCQ,1.0,Sample question text 1571,Unknown,2025-02-14
+1572,Science,6.0,Fractions,easy,True/False,2.0,Sample question text 1572,Unknown,2025-03-14
+1580,Mathematics,7.0,Fractions,easy,MCQ,1.0,Sample question text 1580,Unknown,
+1585,Science,7.0,Measurement,medium,Word Problem,1.0,Sample question text 1585,Unknown,
+1589,Mathematics,6.0,Algebra,medium,True/False,2.0,Sample question text 1589,Teacher A,2025-02-14
+1598,Science,5.0,Fractions,medium,MCQ,2.0,Sample question text 1598,Teacher B,
+1603,Mathematics,7.0,Data Interpretation,unknown,Word Problem,3.0,Sample question text 1603,Teacher B,
+1607,English,7.0,Geometry,easy,MCQ,2.0,Sample question text 1607,Unknown,2025-03-14
+1612,Mathematics,6.0,Geometry,hard,MCQ,1.0,Sample question text 1612,Teacher B,
+1613,Mathematics,7.0,Algebra,unknown,Word Problem,5.0,Sample question text 1613,Unknown,2025-01-10
+1614,Mathematics,6.0,Fractions,easy,Short Answer,2.0,Sample question text 1614,Teacher B,
+1615,Mathematics,6.0,Measurement,hard,Word Problem,2.0,Sample question text 1615,Admin,
+1616,Mathematics,5.0,Data Interpretation,hard,Word Problem,2.0,Sample question text 1616,Unknown,2025-02-14
+1623,Science,6.0,Algebra,unknown,MCQ,2.0,Sample question text 1623,Teacher B,2025-03-14
+1624,Mathematics,6.0,Measurement,hard,MCQ,2.0,Sample question text 1624,Unknown,
+1625,Science,7.0,Algebra,unknown,MCQ,1.0,Sample question text 1625,Teacher A,2025-01-10
+1626,Mathematics,7.0,Algebra,unknown,MCQ,2.0,Sample question text 1626,Unknown,2025-02-14
+1628,Mathematics,7.0,Fractions,easy,Word Problem,2.0,Sample question text 1628,Unknown,2025-02-14
+1630,Mathematics,5.0,Measurement,unknown,Short Answer,2.0,Sample question text 1630,Teacher B,2025-03-14
+1631,Science,7.0,Fractions,medium,MCQ,2.0,Sample question text 1631,Unknown,
+1632,English,7.0,Data Interpretation,medium,MCQ,2.0,Sample question text 1632,Teacher A,
+1633,Mathematics,5.0,Data Interpretation,easy,True/False,2.0,Sample question text 1633,Teacher A,
+1635,Mathematics,6.0,Geometry,hard,MCQ,1.0,Sample question text 1635,Teacher B,2025-01-10
+1639,Mathematics,5.0,Fractions,easy,Word Problem,2.0,Sample question text 1639,Unknown,2025-01-10
+1641,Science,7.0,Measurement,medium,MCQ,5.0,Sample question text 1641,Unknown,2025-03-14
+1644,Mathematics,6.0,Algebra,easy,Unknown,2.0,Sample question text 1644,Unknown,2025-03-14
+1646,Science,6.0,Geometry,hard,Unknown,3.0,Sample question text 1646,Unknown,2025-01-10
+1647,Mathematics,7.0,Data Interpretation,unknown,Short Answer,5.0,Sample question text 1647,Unknown,2025-02-14
+1649,Mathematics,7.0,Data Interpretation,easy,Short Answer,3.0,Sample question text 1649,Unknown,
+1650,Mathematics,7.0,Algebra,unknown,Unknown,5.0,Sample question text 1650,Admin,
+1652,Mathematics,7.0,Geometry,hard,True/False,5.0,Sample question text 1652,Teacher B,
+1654,Mathematics,6.0,Algebra,unknown,Short Answer,2.0,Sample question text 1654,Teacher B,
+1656,Mathematics,6.0,Algebra,unknown,Word Problem,2.0,Sample question text 1656,Teacher A,
+1657,Mathematics,5.0,Measurement,hard,Word Problem,1.0,Sample question text 1657,Teacher B,
+1659,Mathematics,7.0,Fractions,easy,Short Answer,1.0,Sample question text 1659,Teacher A,2025-01-10
+1660,English,5.0,Data Interpretation,hard,Short Answer,2.0,Sample question text 1660,Unknown,
+1661,English,6.0,Algebra,easy,True/False,2.0,Sample question text 1661,Admin,2025-01-10
+1663,Mathematics,5.0,Fractions,medium,MCQ,5.0,Sample question text 1663,Unknown,2025-02-14
+1664,Mathematics,7.0,Measurement,hard,True/False,3.0,Sample question text 1664,Unknown,2025-01-10
+1667,Mathematics,5.0,Algebra,hard,True/False,2.0,Sample question text 1667,Unknown,
+1668,Mathematics,6.0,Fractions,medium,Unknown,2.0,Sample question text 1668,Admin,2025-02-14
+1670,Mathematics,6.0,Data Interpretation,medium,True/False,2.0,Sample question text 1670,Teacher B,2025-03-14
+1673,English,7.0,Geometry,unknown,Word Problem,5.0,Sample question text 1673,Unknown,
+1674,Mathematics,6.0,Geometry,easy,Word Problem,5.0,Sample question text 1674,Unknown,
+1675,English,7.0,Algebra,unknown,True/False,2.0,Sample question text 1675,Teacher A,2025-03-14
+1680,Mathematics,7.0,Algebra,easy,True/False,1.0,Sample question text 1680,Teacher A,2025-03-14
+1682,Mathematics,7.0,Algebra,medium,Unknown,3.0,Sample question text 1682,Teacher B,2025-03-14
+1683,Mathematics,5.0,Data Interpretation,unknown,Unknown,5.0,Sample question text 1683,Unknown,
+1685,Science,6.0,Fractions,unknown,MCQ,3.0,Sample question text 1685,Unknown,
+1686,Mathematics,6.0,Data Interpretation,hard,MCQ,2.0,Sample question text 1686,Teacher B,2025-03-14
+1688,English,6.0,Algebra,medium,MCQ,2.0,Sample question text 1688,Admin,
+1690,Science,5.0,Geometry,easy,Short Answer,3.0,Sample question text 1690,Unknown,
+1692,English,7.0,Fractions,unknown,True/False,2.0,Sample question text 1692,Teacher A,2025-02-14
+1694,Science,6.0,Algebra,easy,Short Answer,5.0,Sample question text 1694,Teacher A,
+1702,Mathematics,7.0,Measurement,hard,Word Problem,3.0,Sample question text 1702,Unknown,
+1705,Mathematics,6.0,Fractions,unknown,Short Answer,2.0,Sample question text 1705,Teacher B,2025-01-10
+1706,Science,6.0,Algebra,medium,Short Answer,2.0,Sample question text 1706,Admin,2025-02-14
+1709,Science,5.0,Fractions,unknown,Unknown,2.0,Sample question text 1709,Admin,
+1714,Mathematics,7.0,Algebra,medium,Unknown,2.0,Sample question text 1714,Teacher A,2025-01-10
+1715,English,7.0,Data Interpretation,unknown,Unknown,2.0,Sample question text 1715,Teacher A,
+1716,Mathematics,7.0,Algebra,unknown,Short Answer,3.0,Sample question text 1716,Unknown,2025-01-10
+1717,English,6.0,Algebra,medium,MCQ,1.0,Sample question text 1717,Unknown,2025-03-14
+1720,Science,6.0,Geometry,medium,True/False,1.0,Sample question text 1720,Teacher B,2025-02-14
+1722,Mathematics,7.0,Geometry,hard,MCQ,2.0,Sample question text 1722,Teacher B,
+1726,Mathematics,7.0,Geometry,unknown,Short Answer,2.0,Sample question text 1726,Unknown,2025-01-10
+1728,English,7.0,Geometry,hard,Short Answer,5.0,Sample question text 1728,Teacher A,
+1730,Mathematics,7.0,Fractions,easy,True/False,5.0,Sample question text 1730,Unknown,2025-02-14
+1731,Science,6.0,Data Interpretation,unknown,True/False,2.0,Sample question text 1731,Unknown,2025-01-10
+1736,Mathematics,7.0,Algebra,medium,MCQ,1.0,Sample question text 1736,Unknown,2025-03-14
+1738,Mathematics,5.0,Algebra,unknown,Word Problem,1.0,Sample question text 1738,Unknown,2025-03-14
+1739,Mathematics,5.0,Fractions,easy,Unknown,2.0,Sample question text 1739,Unknown,2025-01-10
+1747,English,6.0,Algebra,medium,MCQ,5.0,Sample question text 1747,Unknown,
+1748,English,7.0,Fractions,medium,MCQ,2.0,Sample question text 1748,Admin,2025-01-10
+1749,English,6.0,Geometry,unknown,Short Answer,2.0,Sample question text 1749,Unknown,
+1750,Science,7.0,Geometry,easy,Word Problem,2.0,Sample question text 1750,Teacher B,2025-02-14
+1752,Mathematics,5.0,Geometry,hard,Unknown,2.0,Sample question text 1752,Admin,2025-02-14
+1753,Science,5.0,Algebra,easy,MCQ,2.0,Sample question text 1753,Teacher B,
+1755,Mathematics,5.0,Fractions,unknown,MCQ,2.0,Sample question text 1755,Admin,2025-02-14
+1757,Science,7.0,Algebra,easy,Short Answer,3.0,Sample question text 1757,Teacher A,2025-03-14
+1759,Mathematics,6.0,Fractions,medium,MCQ,3.0,Sample question text 1759,Unknown,2025-03-14
+1762,Mathematics,7.0,Geometry,medium,Unknown,2.0,Sample question text 1762,Teacher B,
+1763,English,7.0,Data Interpretation,hard,Word Problem,5.0,Sample question text 1763,Teacher A,2025-01-10
+1767,Science,6.0,Fractions,easy,Short Answer,2.0,Sample question text 1767,Unknown,
+1768,Mathematics,6.0,Geometry,unknown,True/False,2.0,Sample question text 1768,Teacher A,
+1769,Mathematics,5.0,Geometry,easy,Word Problem,5.0,Sample question text 1769,Teacher A,
+1772,Mathematics,7.0,Fractions,hard,Word Problem,5.0,Sample question text 1772,Admin,2025-03-14
+1776,Mathematics,6.0,Algebra,unknown,True/False,3.0,Sample question text 1776,Admin,2025-03-14
+1777,English,7.0,Data Interpretation,hard,Short Answer,2.0,Sample question text 1777,Teacher B,2025-01-10
+1780,English,6.0,Algebra,hard,MCQ,2.0,Sample question text 1780,Teacher A,
+1782,Science,5.0,Data Interpretation,easy,Unknown,5.0,Sample question text 1782,Admin,2025-01-10
+1786,Mathematics,5.0,Geometry,easy,Word Problem,2.0,Sample question text 1786,Unknown,
+1789,Science,7.0,Fractions,hard,MCQ,2.0,Sample question text 1789,Admin,2025-01-10
+1790,Mathematics,7.0,Geometry,unknown,Word Problem,2.0,Sample question text 1790,Admin,
+1791,English,5.0,Fractions,easy,Short Answer,2.0,Sample question text 1791,Unknown,
+1792,Mathematics,7.0,Data Interpretation,hard,Word Problem,5.0,Sample question text 1792,Teacher A,2025-01-10
+1800,Mathematics,7.0,Fractions,medium,Word Problem,3.0,Sample question text 1800,Admin,2025-01-10
+1805,Mathematics,7.0,Fractions,easy,Unknown,2.0,Sample question text 1805,Admin,2025-02-14
+1806,English,7.0,Fractions,medium,Short Answer,1.0,Sample question text 1806,Teacher A,2025-03-14
+1811,Science,6.0,Data Interpretation,medium,MCQ,3.0,Sample question text 1811,Teacher A,2025-03-14
+1814,Mathematics,7.0,Fractions,unknown,Short Answer,1.0,Sample question text 1814,Unknown,2025-02-14
+1815,Mathematics,5.0,Algebra,hard,Short Answer,1.0,Sample question text 1815,Unknown,2025-03-14
+1816,Mathematics,5.0,Measurement,unknown,MCQ,1.0,Sample question text 1816,Teacher B,2025-01-10
+1819,Mathematics,7.0,Measurement,medium,MCQ,2.0,Sample question text 1819,Teacher B,
+1825,Mathematics,6.0,Geometry,medium,MCQ,5.0,Sample question text 1825,Teacher A,
+1827,English,5.0,Fractions,hard,True/False,3.0,Sample question text 1827,Unknown,2025-02-14
+1828,Science,6.0,Fractions,medium,Short Answer,1.0,Sample question text 1828,Teacher A,2025-01-10
+1830,Mathematics,5.0,Geometry,hard,Word Problem,1.0,Sample question text 1830,Teacher A,
+1836,Mathematics,6.0,Measurement,medium,Word Problem,2.0,Sample question text 1836,Admin,
+1838,Science,6.0,Fractions,easy,MCQ,1.0,Sample question text 1838,Admin,
+1839,Mathematics,5.0,Measurement,easy,Word Problem,5.0,Sample question text 1839,Teacher A,2025-03-14
+1840,Mathematics,7.0,Geometry,medium,True/False,2.0,Sample question text 1840,Unknown,2025-01-10
+1850,Mathematics,7.0,Geometry,unknown,MCQ,5.0,Sample question text 1850,Admin,
+1857,Mathematics,5.0,Fractions,unknown,Unknown,1.0,Sample question text 1857,Unknown,
+1858,English,6.0,Fractions,easy,Short Answer,1.0,Sample question text 1858,Teacher A,
+1860,Mathematics,7.0,Fractions,easy,Unknown,2.0,Sample question text 1860,Unknown,
+1865,English,6.0,Algebra,medium,True/False,1.0,Sample question text 1865,Unknown,
+1867,Mathematics,5.0,Algebra,medium,MCQ,2.0,Sample question text 1867,Admin,2025-03-14
+1868,Mathematics,6.0,Geometry,medium,MCQ,2.0,Sample question text 1868,Unknown,2025-01-10
+1871,Mathematics,7.0,Geometry,easy,MCQ,3.0,Sample question text 1871,Unknown,2025-01-10
+1873,Mathematics,5.0,Geometry,unknown,MCQ,2.0,Sample question text 1873,Admin,
+1876,English,6.0,Fractions,unknown,True/False,5.0,Sample question text 1876,Teacher B,
+1878,Mathematics,5.0,Geometry,unknown,Unknown,1.0,Sample question text 1878,Admin,2025-03-14
+1879,Mathematics,7.0,Data Interpretation,easy,Word Problem,1.0,Sample question text 1879,Teacher B,2025-02-14
+1880,English,7.0,Data Interpretation,medium,MCQ,1.0,Sample question text 1880,Admin,
+1885,Science,6.0,Algebra,easy,Word Problem,2.0,Sample question text 1885,Teacher B,
+1889,English,6.0,Algebra,medium,Short Answer,2.0,Sample question text 1889,Teacher B,2025-03-14
+1890,Mathematics,7.0,Fractions,medium,MCQ,3.0,Sample question text 1890,Teacher A,2025-01-10
+1892,Mathematics,6.0,Data Interpretation,hard,MCQ,1.0,Sample question text 1892,Unknown,
+1897,Science,7.0,Measurement,easy,Short Answer,2.0,Sample question text 1897,Admin,2025-02-14
+1898,Science,6.0,Data Interpretation,medium,Word Problem,2.0,Sample question text 1898,Admin,
+1899,Science,7.0,Geometry,medium,Word Problem,2.0,Sample question text 1899,Unknown,
+1903,Mathematics,7.0,Algebra,hard,Word Problem,1.0,Sample question text 1903,Unknown,
+1906,Science,7.0,Algebra,hard,MCQ,1.0,Sample question text 1906,Unknown,
+1907,Mathematics,5.0,Geometry,hard,True/False,2.0,Sample question text 1907,Unknown,
+1914,Mathematics,7.0,Data Interpretation,unknown,Unknown,2.0,Sample question text 1914,Unknown,2025-01-10
+1917,Mathematics,5.0,Algebra,unknown,True/False,5.0,Sample question text 1917,Teacher B,2025-02-14
+1919,Mathematics,7.0,Fractions,unknown,Unknown,5.0,Sample question text 1919,Unknown,
+1922,English,6.0,Algebra,medium,Unknown,2.0,Sample question text 1922,Teacher B,2025-02-14
+1923,Science,6.0,Measurement,hard,MCQ,5.0,Sample question text 1923,Unknown,
+1924,English,5.0,Geometry,medium,Unknown,2.0,Sample question text 1924,Teacher B,2025-02-14
+1928,Science,7.0,Geometry,hard,Short Answer,5.0,Sample question text 1928,Teacher A,2025-02-14
+1929,Science,7.0,Data Interpretation,easy,MCQ,2.0,Sample question text 1929,Admin,
+1931,Mathematics,6.0,Fractions,medium,MCQ,1.0,Sample question text 1931,Teacher B,2025-02-14
+1932,Mathematics,6.0,Algebra,hard,Unknown,2.0,Sample question text 1932,Unknown,
+1934,English,6.0,Measurement,easy,True/False,5.0,Sample question text 1934,Unknown,2025-01-10
+1935,Mathematics,7.0,Algebra,unknown,Short Answer,2.0,Sample question text 1935,Teacher B,2025-02-14
+1938,Mathematics,7.0,Fractions,easy,Word Problem,3.0,Sample question text 1938,Teacher A,2025-02-14
+1940,English,6.0,Geometry,medium,True/False,2.0,Sample question text 1940,Unknown,
+1941,Science,6.0,Fractions,hard,MCQ,1.0,Sample question text 1941,Teacher B,
+1942,Mathematics,7.0,Measurement,unknown,Word Problem,3.0,Sample question text 1942,Teacher A,2025-01-10
+1944,Mathematics,7.0,Measurement,easy,Unknown,1.0,Sample question text 1944,Teacher B,2025-02-14
+1945,Mathematics,7.0,Fractions,hard,Unknown,2.0,Sample question text 1945,Teacher B,
+1954,English,5.0,Algebra,medium,True/False,3.0,Sample question text 1954,Unknown,2025-03-14
+1958,Mathematics,6.0,Algebra,easy,MCQ,2.0,Sample question text 1958,Unknown,2025-01-10
+1959,English,7.0,Algebra,easy,MCQ,3.0,Sample question text 1959,Teacher B,
+1960,Mathematics,6.0,Fractions,unknown,MCQ,2.0,Sample question text 1960,Teacher A,2025-02-14
+1962,Science,6.0,Geometry,unknown,MCQ,2.0,Sample question text 1962,Teacher A,2025-03-14
+1965,Mathematics,6.0,Measurement,hard,True/False,2.0,Sample question text 1965,Teacher B,
+1966,Mathematics,7.0,Algebra,hard,MCQ,2.0,Sample question text 1966,Unknown,2025-01-10
+1967,Mathematics,6.0,Data Interpretation,hard,True/False,2.0,Sample question text 1967,Admin,2025-02-14
+1970,Science,6.0,Fractions,hard,MCQ,2.0,Sample question text 1970,Unknown,
+1971,Science,5.0,Geometry,unknown,MCQ,3.0,Sample question text 1971,Teacher A,
+1972,Mathematics,7.0,Geometry,easy,Word Problem,2.0,Sample question text 1972,Teacher A,2025-03-14
+1973,Mathematics,6.0,Algebra,unknown,MCQ,2.0,Sample question text 1973,Unknown,
+1978,Mathematics,6.0,Fractions,medium,Short Answer,1.0,Sample question text 1978,Teacher A,
+1980,Science,5.0,Measurement,hard,Unknown,2.0,Sample question text 1980,Unknown,
+1983,Science,7.0,Fractions,medium,Unknown,1.0,Sample question text 1983,Teacher A,2025-02-14
+1984,Science,5.0,Measurement,medium,MCQ,2.0,Sample question text 1984,Teacher B,2025-01-10
+1986,Mathematics,7.0,Algebra,easy,MCQ,2.0,Sample question text 1986,Teacher B,2025-01-10
+1993,Mathematics,7.0,Geometry,easy,True/False,2.0,Sample question text 1993,Admin,
+1995,English,7.0,Algebra,unknown,MCQ,2.0,Sample question text 1995,Admin,
+1997,Mathematics,6.0,Fractions,unknown,MCQ,2.0,Sample question text 1997,Unknown,
+1999,Mathematics,7.0,Data Interpretation,easy,MCQ,5.0,Sample question text 1999,Teacher B,2025-01-10
