@@ -1,0 +1,11 @@
+Question_No,question_id,subject,grade,competency,difficulty,question_type,marks,question_text
+1,25,Mathematics,6,Data Interpretation,easy,MCQ,5,Clean sample question text 25
+2,28,Mathematics,6,Data Interpretation,easy,Word Problem,1,Clean sample question text 28
+3,10,Mathematics,6,Algebra,easy,Word Problem,2,Clean sample question text 10
+4,23,Mathematics,6,Algebra,easy,Short Answer,3,Clean sample question text 23
+5,29,Mathematics,6,Algebra,medium,Short Answer,2,Clean sample question text 29
+6,17,Mathematics,6,Data Interpretation,medium,MCQ,5,Clean sample question text 17
+7,31,Mathematics,6,Algebra,medium,Short Answer,3,Clean sample question text 31
+8,16,Mathematics,6,Fractions,medium,Word Problem,3,Clean sample question text 16
+9,18,Mathematics,6,Measurement,hard,Word Problem,2,Clean sample question text 18
+10,19,Mathematics,6,Fractions,hard,Short Answer,5,Clean sample question text 19
